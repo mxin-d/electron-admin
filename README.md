@@ -1,4 +1,4 @@
-# electron-local-site
+# electron-admin
 
 ``` bash
 # install dependencies
