@@ -1,7 +1,7 @@
 {
   "name": "electron-admin",
   "version": "1.0.0",
-  "author": "",
+  "author": "mxin",
   "description": "An electron-vue project",
   "main": "./dist/electron/main.js",
   "scripts": {
